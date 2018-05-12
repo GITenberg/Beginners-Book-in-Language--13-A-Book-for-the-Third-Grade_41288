@@ -1,0 +1,27 @@
+_repo: Beginners-Book-in-Language--13-A-Book-for-the-Third-Grade_41288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41288-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Jeschke, Harry Jewett
+    alias: Jeschke, H. (Harry Jewett)
+    birthdate: 1873
+    gutenberg_agent_id: '41095'
+    url: http://www.gutenberg.org/2009/agents/41095
+description: ''
+gutenberg_issued: '2012-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41288'
+  lccn: '51050177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Composition and exercises'
+- !lcc 'PE'
+title: Beginners' Book in Language. A Book for the Third Grade
+url: http://www.gutenberg.org/ebooks/41288
