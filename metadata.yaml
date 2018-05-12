@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41095'
     url: http://www.gutenberg.org/2009/agents/41095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41288#Beginners-Book-in-Language--13-A-Book-for-the-Third-Grade
 gutenberg_issued: '2012-11-04'
 gutenberg_type: Text
 identifiers:
